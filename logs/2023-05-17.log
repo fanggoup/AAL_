@@ -1,0 +1,2 @@
+time="2023-05-17 20:49:26" level=info msg="Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\x04)) ORDER BY `time_consumption`.`id` ASC LIMIT 1' at line 1"
+time="2023-05-17 20:49:26" level=info msg="Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\x05)) ORDER BY `time_consumption`.`id` ASC LIMIT 1' at line 1"
